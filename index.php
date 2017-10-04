@@ -36,7 +36,7 @@ $nickname = isset($_SESSION['nickname']) ? $_SESSION['nickname'] : "Hidden";
 <html>
 <head>
    <title>My Chat~ Developed by Sreedhu</title>
-   <link href="style/style.css" rel="stylesheet" type="text/css" />
+   <link href="style.css" rel="stylesheet" type="text/css" />
     <script language="javascript" type="text/javascript">
     <!--
       var httpObject = null;
